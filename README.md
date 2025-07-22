@@ -13,6 +13,12 @@ I'm a rising freshman at Columbia University SEAS with an intended major in Mech
 - 2021-2025 Staten Island Technical High School
 - 2025-2029 Columbia University SEAS
 
+### Engineering Experience 
+- Captain of SITHS Neptune Seaperch Team
+- Karim Kharbouch Coding Fellowship (KKCF) Coding Fellow
+- Summer Design Institute Pre-Engineering Intern
+- Conrad Challenge Operation Eco Team Leader 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/angelina-weng-153418248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/angelina-weng-153418248" height="30" width="40" /></a>
