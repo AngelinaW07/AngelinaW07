@@ -1,4 +1,5 @@
 ## Hi, I'm Angelina Weng 👋
+I'm a rising freshman at Columbia University SEAS with an intended major in Mechanical Engineering. I'm a passionate engineer who not only wants to gain practical skills but also to engineer for humanity. Therefore, while building my toolbox I have aimed to develop products that potentially create societal benefits.
 
 ### About Me:
 - 🏫 I'm a rising freshman at **Columbia University SEAS** majoring in **Mechanical Engineering**
@@ -7,6 +8,10 @@
 - 📫 How to reach me: <aweng9639@gmail.com>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to listen to music and sing
+
+### Educational Experience:
+- 2021-2025 Staten Island Technical High School
+- 2025-2029 Columbia University SEAS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
